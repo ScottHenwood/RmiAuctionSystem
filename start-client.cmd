@@ -1,0 +1,1 @@
+java -cp dist\AuctionSystem.jar auctionsystem.view.BidderView
